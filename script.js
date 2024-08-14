@@ -1305,8 +1305,6 @@ async function unitedSequence() {
   united.visible = true;
   united.layer = 2000;
   united.rotationSpeed = 1;
-  newGameButton.pos = { x: 120, y: 30 };
-  newGameButton.visible = true;
 }
 
 function newGame() {
