@@ -1310,6 +1310,7 @@ async function unitedSequence() {
 function newGame() {
 
   unitedMusic.stop();
+  music.stop();
   musicOn = false;
 
   bridges = 0;
