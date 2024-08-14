@@ -1,4 +1,9 @@
 # Bridge of Hope Code
+### Description
+In *Bridge of Hope*, embark on a journey through four unique worlds—fire, land, ocean, and space—in a beautifully crafted 2D retro/pixel art style. As the player, your mission is to build bridges that connect fragmented parts of each world, uniting them with hope and positivity. Each bridge you create not only overcomes physical obstacles but also symbolizes the power of connection and unity. With every level, you'll spread a message of togetherness, all while enjoying an engaging and heartwarming gaming experience.
+
+---
+
 ###  Attributions
 - all images: https://www.canva.com/
 - all sounds: https://www.youtube.com/@FreeMusicc
