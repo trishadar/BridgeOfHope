@@ -4,6 +4,35 @@ In *Bridge of Hope*, embark on a journey through four unique worlds—fire, land
 
 ---
 
+### Features
+- **Four Worlds**: Navigate through diverse environments including fire, land, ocean, and space.
+- **Bridge Building**: Construct bridges to connect fragmented areas and solve puzzles.
+- **Positive Message**: Spread hope and connection through uplifting gameplay.
+
+---
+
+### Deployment
+The game is deployed on Replit. You can play it directly [here](https://bridgeofhope-trisha-d.replit.app/).
+
+---
+
+### Future Plans
+- Add more obstacles and monsters to the current worlds.
+- Introduce new worlds with unique environments.
+- Implement features like starting a new game from the end screen.
+
+---
+
+### Contributing
+Contributions are welcome! If you’d like to contribute, please fork the repository, make your changes, and submit a pull request.
+
+---
+
+### License
+This project is licensed under the MIT License. See the _ file for details.
+
+---
+
 ###  Attributions
 - all images: https://www.canva.com/
 - all sounds: https://www.youtube.com/@FreeMusicc
