@@ -28,11 +28,6 @@ Contributions are welcome! If you’d like to contribute, please fork the reposi
 
 ---
 
-### License
-This project is licensed under the MIT License. See the _ file for details.
-
----
-
 ###  Attributions
 - all images: https://www.canva.com/
 - all sounds: https://www.youtube.com/@FreeMusicc
